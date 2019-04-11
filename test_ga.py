@@ -10,8 +10,8 @@ def test_x_2():
                                                      100,
                                                      98,
                                                      800, 0.95, 1.0)
-    np.testing.assert_almost_equal(fitness, real_fitness, 5)
-    np.testing.assert_almost_equal(solution, real_solution, 3)
+    np.testing.assert_almost_equal(fitness, real_fitness, 4)
+    np.testing.assert_almost_equal(solution, real_solution, 2)
     print('fitness',fitness)
     print('solution', solution)
 
