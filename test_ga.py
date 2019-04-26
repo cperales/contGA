@@ -1,5 +1,5 @@
 import numpy as np
-from ga import continuous_genetic_algorithm
+from contGA.ga import continuous_genetic_algorithm
 
 
 def test_x_2():

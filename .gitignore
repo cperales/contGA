@@ -1,5 +1,7 @@
 # Folders
-.idea/
-__pycache__/
 env/
+.idea/
 
+# Python
+__pycache__/
+*.egg-info/
