@@ -10,7 +10,7 @@ setup(
               ],
     zip_safe=False,
     install_requires=['numpy',
-                      'matplotlib'],
+                      ],
     include_package_data=True,
     setup_requires=[],
     tests_require=[]
